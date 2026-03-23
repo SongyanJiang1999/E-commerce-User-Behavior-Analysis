@@ -1,4 +1,4 @@
-# E-commerce User Behavior Analysis\
+# E-commerce User Behavior Analysis
 ## Project Overview
 
 This project analyzes user behavior in an e-commerce platform to understand the gap between user engagement and transaction conversion.
